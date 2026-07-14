@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Dharsan
 
-<!--
-**Vishal-0639/Vishal-0639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Spring Boot, React, and Machine Learning
+- 💡 Interested in Full Stack Development
+- 🔭 Building Java and Web Development Projects
+- 📚 Improving my DSA skills
+- ⚡ Love solving programming problems
+
+## 🛠 Skills
+
+Java • Python • C++ • JavaScript • React • Spring Boot • MySQL • Git • GitHub • HTML • CSS
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Vishal-0639&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=Vishal-0639)
+
+## 📫 Reach Me
+
+📧 Your Email
+
+🔗 LinkedIn: Your LinkedIn URL
