@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Vishal Dharsan P S
 
-> 💻 Computer Science Engineering Student | Java Developer | Spring Boot Enthusiast | ML Learner
+> 💻 Computer Science Engineering Student | Java Developer | Spring Boot Enthusiast | Machine Learning Learner
+>
 > Passionate about building scalable applications, solving coding problems, and continuously learning new technologies.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vishal-0639&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -19,7 +24,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,react,html,css,mysql,git,github,vscode,maven,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,react,html,css,mysql,git,github,vscode,maven,postman,linux&perline=8" />
 </p>
 
 ---
@@ -27,8 +32,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal-0639&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-0639&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal-0639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-0639&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -39,26 +44,37 @@
 
 ## 🚀 Featured Projects
 
-- 🏥 **Health Coach Management System** (Spring Boot + MySQL)
-- 📚 **Student Management REST API**
-- 🌐 **React Web Applications**
-- 🤖 **Machine Learning Projects**
+### 🏥 Health Coach Management System
+A Spring Boot REST API for managing health coaches using MySQL.
+
+### 📚 Student Management System
+CRUD application built with Spring Boot and JPA.
+
+### 🌐 React Web Applications
+Responsive frontend applications using React.
+
+### 🤖 Machine Learning Projects
+Projects exploring supervised learning and data analysis.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-0639&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Vishal-0639">
+  <a href="https://github.com/Vishal-0639" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/vishal-dharsan-p-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -67,13 +83,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-0639&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-0639&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## ✨ Quote
+## 💡 Quote
 
 > **"Code. Learn. Build. Repeat."**
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
