@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishal Dharsan P S
+#  I'm Vishal Dharsan P S
 
 > 💻 Computer Science Engineering Student | Java Developer | Spring Boot Enthusiast | Machine Learning Learner
 >
