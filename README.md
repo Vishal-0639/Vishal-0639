@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Dharsan P S</h1>
+<h1 align="center">Vishal Dharsan P S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+Developer+%7C+Spring+Boot+Enthusiast;Machine+Learning+Learner;Building+Scalable+Applications+%F0%9F%9A%80;Solving+DSA+Problems+Daily+%F0%9F%92%BB" alt="Typing SVG" />
