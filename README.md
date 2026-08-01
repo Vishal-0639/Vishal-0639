@@ -8,8 +8,6 @@
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=60&lines=Vishal+Dharsan+P+S" alt="Typing SVG" />
-
 **Passionate Java Developer building scalable backend systems with Spring Boot and solving complex DSA problems.**
 
 <br/>
