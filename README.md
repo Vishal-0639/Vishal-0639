@@ -65,7 +65,7 @@ Pre-final-year **B.E. Computer Science and Engineering** student at **Sri Krishn
 
 **⚙️ Backend Architecture**
 
-Building scalable **REST APIs with Spring Boot, Spring Data JPA, Hibernate, and MySQL**, secured with JWT authentication.
+Building robust **REST APIs with Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, secured with JWT authentication.
 
 </td></tr>
 </table>
@@ -109,40 +109,35 @@ Active problem solver with **150+ LeetCode problems solved** across Arrays, Hash
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:09090b,100:dc2626&height=65&section=header&text=🛠️%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,spring,react,vite&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=hibernate,mysql,mongodb,aws,git,github,idea,postman&perline=8" />
+
 </div>
 
+<br/>
+
 <table align="center" width="100%">
-<tr><td align="center">
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,py,html,css&perline=8" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,react,vite,hibernate&perline=8" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" />
-
-<br/><br/>
-
-**Developer Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&perline=8" />
-
-<br/><br/>
-
-**Cloud & Deployment**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel&perline=8" />
-
-</td></tr>
+<tr>
+<td width="25%" align="center" valign="top">
+<strong>☕ Languages</strong><br/>
+<code>Java</code> • <code>C++</code> • <code>JavaScript</code> • <code>HTML5 / CSS3</code>
+</td>
+<td width="25%" align="center" valign="top">
+<strong>⚙️ Backend</strong><br/>
+<code>Spring Boot</code> • <code>REST APIs</code> • <code>JPA / Hibernate</code>
+</td>
+<td width="25%" align="center" valign="top">
+<strong>⚛️ Frontend</strong><br/>
+<code>React.js</code> • <code>Vite</code> • <code>Framer Motion</code>
+</td>
+<td width="25%" align="center" valign="top">
+<strong>🗄️ Tools & Cloud</strong><br/>
+<code>MySQL</code> • <code>AWS</code> • <code>Git / GitHub</code> • <code>Postman</code>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -166,7 +161,7 @@ Active problem solver with **150+ LeetCode problems solved** across Arrays, Hash
 
 ### 🏥 Health Coach Application System
 
-A backend system for managing users, coaches, onboarding applications, and review workflows with JWT authentication and MySQL.
+A complete backend management system for coaches, client applications, document verification, and reviews with JWT authentication and MySQL.
 
 **Tech Stack**
 <br/>
@@ -190,7 +185,7 @@ A backend system for managing users, coaches, onboarding applications, and revie
 
 ### ⚡ Developer Portfolio Web Application
 
-A dark-themed developer portfolio featuring live LeetCode stats sync, 3D tilt cards, Framer Motion animations, and EmailJS integration.
+A sleek, dark-themed portfolio featuring live LeetCode API synchronization, 3D tilt cards, Framer Motion animations, and EmailJS dispatch.
 
 **Tech Stack**
 <br/>
@@ -203,31 +198,6 @@ A dark-themed developer portfolio featuring live LeetCode stats sync, 3D tilt ca
 
 <a href="https://vishaldharsan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Vishal-0639/Portfolio-Webstie" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td></tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<table width="100%" border="1">
-<tr><td>
-
-### 🌿 Home Medicine Recommender System
-
-A rule-based data analysis pipeline that parses patient symptoms and suggests safe, common home remedies.
-
-**Tech Stack**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP%20Pipeline-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://github.com/Vishal-0639" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td></tr>
 </table>
