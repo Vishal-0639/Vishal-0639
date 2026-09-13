@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vishaldharsan.vercel.app/logo.png" width="70" alt="VD Logo" />
+<img src="https://raw.githubusercontent.com/Vishal-0639/Portfolio-Webstie/main/public/logo.png" width="70" alt="VD Logo" />
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vishaldharsan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://vishaldharsan-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vishal-dharsan-p-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Vizz76/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:vishaldhar1106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:09090b,100:dc2626&height=65&section=header&text=👨‍💻%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:09090b,100:dc2626&height=65&section=header&text=👨💻%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
 ### 📌 Highlights
@@ -93,7 +93,7 @@
 ### ⚡ Developer Portfolio Web Application
 > A high-performance, dark-themed personal portfolio with live LeetCode stats sync, Framer Motion spring physics, 3D tilt cards, and EmailJS integration.
 - **Tech Stack**: `React` • `Vite` • `Framer Motion` • `CSS3` • `EmailJS` • `Vercel`
-- 🌐 **Live Portfolio**: [vishaldharsan.vercel.app](https://vishaldharsan.vercel.app/)
+- 🌐 **Live Portfolio**: [vishaldharsan-portfolio.vercel.app](https://vishaldharsan-portfolio.vercel.app/)
 - 🔗 **Repository**: [Portfolio-Webstie](https://github.com/Vishal-0639/Portfolio-Webstie)
 
 <br/>
@@ -130,10 +130,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Vishal-0639&theme=tokyonight&hide_border=true" width="95%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-0639&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 <br/>
@@ -147,7 +143,7 @@
 
 <br/>
 
-<a href="https://vishaldharsan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vishaldharsan-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vishal-dharsan-p-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Vishal-0639" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Vizz76/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
